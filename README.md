@@ -173,7 +173,7 @@ A full walkthrough of the Cognify platform across every core feature module.
 
 | **Overview Dashboard** | **Quick Actions Panel** |
 | :---: | :---: |
-| ![Overview Dashboard](screenshots/Screenshot%202026-11-04%20at%2012.22.32%E2%80%AFAM.png) | ![Course Management](screenshots/Screenshot%202026-11-04%20at%2012.22.45%E2%80%AFAM.png) |
+| ![Overview Dashboard](screenshots/screenshot-1.png) | ![Course Management](screenshots/screenshot-2.png) |
 | *Personalised dashboard showing live study stats, quick actions, and recent activity.* | *Colour-coded course cards with progress indicators and one-click access.* |
 
 ---
@@ -182,7 +182,7 @@ A full walkthrough of the Cognify platform across every core feature module.
 
 | **Create a New Course** |
 | :---: |
-| ![Create New Course](screenshots/Screenshot%202026-11-04%20at%2012.23.06%E2%80%AFAM.png) |
+| ![Create New Course](screenshots/screenshot-3.png) |
 | *Course creation modal with custom icon, colour, category, and target date.* |
 
 ---
@@ -191,7 +191,7 @@ A full walkthrough of the Cognify platform across every core feature module.
 
 | **Curriculum Architect Wizard** | **Generated Study Schedule** |
 | :---: | :---: |
-| ![Study Plan Generator](screenshots/Screenshot%202026-11-04%20at%2012.23.25%E2%80%AFAM.png) | ![Active Study Plan](screenshots/Screenshot%202026-11-04%20at%2012.24.17%E2%80%AFAM.png) |
+| ![Study Plan Generator](screenshots/screenshot-4.png) | ![Active Study Plan](screenshots/screenshot-5.png) |
 | *Configure subject, topics, daily commitment, and plan duration in one wizard.* | *Day-by-day task list with priority tags, time estimates, and completion tracking.* |
 
 ---
@@ -200,7 +200,7 @@ A full walkthrough of the Cognify platform across every core feature module.
 
 | **Exam Configuration** | **Live Timed Examination** |
 | :---: | :---: |
-| ![Configure Exam](screenshots/Screenshot%202026-11-04%20at%2012.24.40%E2%80%AFAM.png) | ![Live MCQ Exam](screenshots/Screenshot%202026-11-04%20at%2012.25.19%E2%80%AFAM.png) |
+| ![Configure Exam](screenshots/screenshot-6.png) | ![Live MCQ Exam](screenshots/screenshot-7.png) |
 | *Set difficulty, duration, question count, and format before generating an exam.* | *Timed MCQ interface with a question palette, countdown timer, and review flags.* |
 
 ---
@@ -209,7 +209,7 @@ A full walkthrough of the Cognify platform across every core feature module.
 
 | **Document-Grounded AI Tutor** |
 | :---: |
-| ![AI Tutor](screenshots/Screenshot%202026-11-04%20at%2012.25.45%E2%80%AFAM.png) |
+| ![AI Tutor](screenshots/screenshot-8.png) |
 | *Context-aware tutor answering questions grounded in your uploaded notes.* |
 
 ---
@@ -218,12 +218,12 @@ A full walkthrough of the Cognify platform across every core feature module.
 
 | **PDF Library & Viewer** | **AI-Generated Study Summary** |
 | :---: | :---: |
-| ![My Notes](screenshots/Screenshot%202026-11-04%20at%2012.26.15%E2%80%AFAM.png) | ![AI Summary](screenshots/Screenshot%202026-11-04%20at%2012.26.46%E2%80%AFAM.png) |
+| ![My Notes](screenshots/screenshot-9.png) | ![AI Summary](screenshots/screenshot-10.png) |
 | *Upload and manage PDFs with inline text extraction and course assignment.* | *Structured AI summary with key concepts, definitions, and save-to-notes option.* |
 
 | **AI-Generated Practice Quiz** |
 | :---: |
-| ![MCQ Quiz](screenshots/Screenshot%202026-11-04%20at%2012.27.17%E2%80%AFAM.png) |
+| ![MCQ Quiz](screenshots/screenshot-11.png) |
 | *Interactive MCQ quiz with instant grading, answer reveal, and score saving.* |
 
 ---
@@ -232,7 +232,7 @@ A full walkthrough of the Cognify platform across every core feature module.
 
 | **Flashcard Active Recall Player** | **Pomodoro Focus Timer** |
 | :---: | :---: |
-| ![Flashcards](screenshots/Screenshot%202026-11-04%20at%2012.27.42%E2%80%AFAM.png) | ![Revision Timer](screenshots/Screenshot%202026-11-04%20at%2012.29.14%E2%80%AFAM.png) |
+| ![Flashcards](screenshots/screenshot-12.png) | ![Revision Timer](screenshots/screenshot-13.png) |
 | *Spaced-repetition flashcard decks with self-assessment and due-today tracking.* | *Configurable focus sprint timer with automatic session logging to analytics.* |
 
 ---
@@ -241,7 +241,7 @@ A full walkthrough of the Cognify platform across every core feature module.
 
 | **Learning Analytics Dashboard** | **Goal Tracker** |
 | :---: | :---: |
-| ![Analytics](screenshots/Screenshot%202026-11-04%20at%2012.29.37%E2%80%AFAM.png) | ![My Goals](screenshots/Screenshot%202026-11-04%20at%2012.29.56%E2%80%AFAM.png) |
+| ![Analytics](screenshots/screenshot-14.png) | ![My Goals](screenshots/screenshot-15.png) |
 | *Aggregated study metrics, accuracy trends, and weekly study rhythm chart.* | *Active goal cards with progress bars, deadlines, and milestone tracking.* |
 
 ---
